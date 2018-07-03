@@ -9,6 +9,7 @@ latest version **0.1**
 
    * [Requirements Document](#requirements-document)
       * [Changelog](#changelog)
+      * [Personas](#personas)
       * [Epics and User Stories](#epics-and-user-stories)
          * [Theme: Input Source](#theme-input-source)
          * [Theme: Satellite Configuration](#theme-satellite-configuration)
@@ -16,12 +17,22 @@ latest version **0.1**
          * [Theme: Digital Signal Processing (DSP)](#theme-digital-signal-processing-dsp)
          * [Theme: Data Persistency](#theme-data-persistency)
          * [Theme: Data Publication](#theme-data-publication)
+      * [Priorization Matrix](#priorization-matrix)
 
 ## Changelog
 
 * 0.1 - first draft of requirements
 
 ---
+
+## Personas
+
+| Nr | Titel | Description |
+| --- | --- | --- |
+| 1 | Radiou Amateur | He receives signales from satellites and uses the tool to decode the signal and see the satellites content |
+| 2 | Teacher | A teacher wants to bring the STEM fields closer to his students |
+| 3 | Space Engineer | He uses the tool to follow his satellites, add new satellites and analyze the provided data |
+
 ## Epics and User Stories
 ### Theme: Input Source
 
@@ -71,3 +82,19 @@ latest version **0.1**
 |:--- |:--- |
 | 6.1 | As a **radio amateur** I can **export my data** so that I can **distribute them** |
 | 6.2 | As a **space engineer** I can **print the data** so that I can **publish them in other media** |
+
+## Priorization Matrix
+
+Implementatoin Effort vs Business Value
+
+| | 1 | 2 | 3 | 5 | 8 | 13 | 20 | 40 | 100 | ? |
+| --- | --- | --- | --- | --- | --- | --- | --- | 
+| **100** | - | - | - | - | - | - | - | - | - | - |
+| **200** | - | - | - | - | - | - | - | - | - | - |
+| **300** | - | - | - | - | - | - | - | - | - | - |
+| **500** | - | - | - | - | - | - | - | - | - | - |
+| **800** | - | - | - | - | - | - | - | - | - | - |
+| **1300**| - | - | - | - | - | - | - | - | - | - |
+| **2000**| - | - | - | - | - | - | - | - | - | - |
+| **4000**| - | - | - | - | - | - | - | - | - | - |
+| **10000**| - | - | - | - | - | - | - | - | - | - |
