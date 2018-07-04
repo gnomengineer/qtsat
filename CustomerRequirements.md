@@ -3,7 +3,7 @@
 This document shows the requirements in form of epics and more detailed user stories.  
 It is subject to change every iteration and features a changelog.
 
-latest version **0.1**
+latest version **0.2**
 
 ## Table of Contents
 
@@ -22,6 +22,7 @@ latest version **0.1**
 ## Changelog
 
 * 0.1 - first draft of requirements
+* 0.2 - change epic 3.1 and add epic 3.8
 
 ---
 
@@ -52,13 +53,14 @@ latest version **0.1**
 
 | # | Epic |
 |:--- |:--- |
-| 3.1 | As a **teacher** I can **select visualized data** to **filter unneeded views** |
+| 3.1 | As a **teacher** I can **select data view** to **filter unneeded views** |
 | 3.2 | As a **space engineer** I can **filter for date/time** to **view older data** |
 | 3.3 | As a **teacher** I can **arrange the views** to **group them logically** |
 | 3.4 | As a **space engineer** I can **add new views** to **keep visualization on date** |
 | 3.5 | As a **radio amateur** I can **see the quality of signal** to **adjust receiver hardware** |
 | 3.6 | As a **space engineer** I can **see which satellite is viewed** to **avoid misinformation** |
 | 3.7 | As a **space engineer** I can **select which satellite the data is shown from** to **be able to track the right satellite** |
+| 3.8 | As a **teacher** I can **see different views** to **have a variety of analysis**
 
 ### Theme: Digital Signal Processing (DSP)
 
