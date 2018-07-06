@@ -78,14 +78,15 @@ current version **0.3**
 |:--- |:--- |:---:|:---:|
 | 5.1 | As a **radio amateur** I can **store my data locally** so that I can **view the data later** | 40 |- |
 | 5.2 | As a **space engineer** the data is **stored with integrity** so I **don't loose important data** | 40 |- |
-| 5.3 | s a **radio amateur** I can **save data remotely** so that **others can view this data** | 40 |- |
+| 5.3 | As a **radio amateur** I can **save data remotely** so that **others can view this data** | 40 |- |
 
 ### Theme: Data Publication
 
 | # | Epic | Est. Effort | Est. Value |
 |:--- |:--- |:---:|:---:|
 | 6.1 | As a **radio amateur** I can **export my data** so that I can **distribute them** | 20 | - |
-| 6.2 | As a **space engineer** I can **print the data** so that I can **publish them in other media** | 20 | - |
+| 6.2 | As a **radio amateur** I can **import data** from **other radio amateurs** so that I can **view it** | 20 | - |
+| 6.3 | As a **space engineer** I can **print the data** so that I can **publish them in other media** | 20 | - |
 
 ## Priorization Matrix
 
